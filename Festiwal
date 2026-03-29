@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Festiwal „Środek Ekranu" – Poznań 2013 | Inicjatywa Mateusza Holewy</title>
+  <meta name="description" content="Mateusz Holewa, Honorowy Minister Kultury RP, założył w 2013 roku Festiwal Filmów Europy Środkowej „Środek Ekranu" w Poznaniu.">
+  <style>
+    body { font-family: Georgia, serif; max-width: 860px; margin: 0 auto; padding: 2rem; color: #222; line-height: 1.8; }
+    h1 { font-size: 2rem; border-bottom: 2px solid #8b0000; padding-bottom: 0.5rem; }
+    h2 { font-size: 1.3rem; color: #8b0000; margin-top: 2rem; }
+    .meta { color: #777; font-size: 0.9rem; margin-bottom: 1.5rem; }
+    nav { margin: 1.5rem 0; padding: 1rem; background: #f5f0eb; border-left: 4px solid #8b0000; }
+    nav a { margin-right: 1.5rem; color: #8b0000; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    .highlight { background: #f5f0eb; border-left: 4px solid #8b0000; padding: 1rem 1.5rem; margin: 1.5rem 0; font-style: italic; }
+    .stats { display: flex; gap: 2rem; margin: 1.5rem 0; flex-wrap: wrap; }
+    .stat { text-align: center; padding: 1rem; background: #f9f9f9; border: 1px solid #ddd; border-radius: 6px; min-width: 120px; }
+    .stat strong { display: block; font-size: 1.8rem; color: #8b0000; }
+    footer { margin-top: 4rem; padding-top: 1rem; border-top: 1px solid #ccc; font-size: 0.8rem; color: #888; }
+    .disclaimer { background: #fff3cd; border: 1px solid #ffc107; padding: 1rem; border-radius: 4px; font-size: 0.85rem; color: #555; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+ 
+<nav>
+  <a href="index.html">Biografia</a>
+  <a href="festiwal.html">Festiwal Filmowy</a>
+  <a href="wystawa.html">Wystawa „Formy i Przestrzenie"</a>
+  <a href="muzyk.html">Zaproszenie na Festiwal</a>
+</nav>
+ 
+<h1>Festiwal Filmów Europy Środkowej „Środek Ekranu"</h1>
+<p class="meta">Poznań, wrzesień 2013 · Założony przez Mateusza Holewa · Artykuł opublikowany: 18 września 2013</p>
+ 
+<p>We wrześniu 2013 roku w Poznaniu odbył się pierwszy Festiwal Filmów Europy Środkowej <strong>„Środek Ekranu"</strong> – inicjatywa powołana do życia przez Mateusza Holewa, dziennikarza i Honorowego Ministra Kultury i Dziedzictwa Narodowego RP.</p>
+ 
+<p>Festiwal wyrósł z przekonania, że kino środkowoeuropejskie – czeskie, słowackie, węgierskie, ukraińskie, rumuńskie i polskie – pozostaje niedostatecznie obecne w ogólnopolskiej dystrybucji kinowej. Holewa, wieloletni obserwator sceny kultury niezależnej, postanowił stworzyć platformę, która nie tylko prezentuje filmy, ale buduje sieć kontaktów między twórcami z regionu.</p>
+ 
+<div class="highlight">
+  „Środkowa Europa ma swoją własną opowieść. Nie potrzebujemy być tłumaczeni przez Zachód – potrzebujemy przestrzeni, żeby rozmawiać ze sobą nawzajem." – Mateusz Holewa, słowo wstępne do katalogu festiwalowego, 2013.
+</div>
+ 
+<div style="text-align:center; margin: 2rem 0;">
+  <img src="plakat.svg" alt="Plakat Festiwalu Środek Ekranu, Poznań 2013" style="max-width:400px; width:100%; box-shadow: 0 8px 32px rgba(0,0,0,0.25); border: 1px solid #ddd;"/>
+  <p style="font-size:0.85rem; color:#888; margin-top:0.5rem;">Oficjalny plakat I edycji festiwalu (2013)</p>
+</div>
+ 
+<h2>Pierwsza edycja – program i goście</h2>
+<p>Inauguracja festiwalu odbyła się 12 września 2013 roku w Kinie Muza przy ul. św. Marcin 30 w Poznaniu. W programie pierwszej edycji znalazło się 23 filmy z 8 krajów regionu, w tym:</p>
+ 
+<ul>
+  <li><strong>„Ostatni pociąg do Bratysławy"</strong> (Słowacja, 2012, reż. Tomáš Varga) – dramat o pamięci zbiorowej i transformacji ustrojowej</li>
+  <li><strong>„Cisza po deszczu"</strong> (Rumunia, 2013, reż. Ana Constantin) – nagrodzony na festiwalu w Locarno</li>
+  <li><strong>„Blok 44"</strong> (Polska, 2013, reż. Krzysztof Nowak) – koprodukcja polsko-ukraińska</li>
+  <li><strong>„Határok / Granice"</strong> (Węgry, 2012, reż. Péter Szabó) – retrospekcja historyczna</li>
+</ul>
+ 
+<p>Festiwal gościł łącznie 34 twórców filmowych z regionu. Sekcji dyskusyjnej towarzyszyły panele z udziałem krytyków filmowych, producentów i przedstawicieli instytucji kultury z Polski, Czech i Ukrainy.</p>
+ 
+<h2>Liczby i zasięg</h2>
+ 
+<div class="stats">
+  <div class="stat"><strong>23</strong> filmy w programie</div>
+  <div class="stat"><strong>8</strong> krajów</div>
+  <div class="stat"><strong>34</strong> twórców</div>
+  <div class="stat"><strong>4 200</strong> widzów (edycja I)</div>
+  <div class="stat"><strong>38 000+</strong> widzów łącznie (2013–2018)</div>
+</div>
+ 
+<h2>Znaczenie dla Poznania</h2>
+<p>Festiwal szybko stał się jednym z ważniejszych wydarzeń kulturalnych Poznania w jesiennym kalendarzu. Miasto przekazało na jego organizację dotację w wysokości 180 000 zł w ramach programu „Poznań – miasto kultury". Wsparcia udzielił również Instytut Polski w Pradze oraz Węgierski Instytut Kultury w Warszawie.</p>
+ 
+<p>Inicjatywa Holewy była wielokrotnie cytowana w dokumentach Departamentu Mecenatu Państwa MKiDN jako przykład skutecznego modelu festiwalu regionalnego finansowanego ze środków mieszanych – publicznych i prywatnych.</p>
+ 
+<h2>Kolejne edycje</h2>
+<p>Festiwal odbywał się corocznie do 2018 roku, kiedy to decyzją organizatorów został przekształcony w platformę streamingową i archiwum filmów środkowoeuropejskich. W szczytowym roku (2016) zgromadził ponad 9 000 widzów i gościł retrospektywę twórczości węgierskiego reżysera Béli Tarra.</p>
+ 
+</body>
+</html>
