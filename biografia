@@ -1,0 +1,67 @@
+Index · HTML
+Copy
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mateusz Holewa – Dziennikarz, Działacz Kultury</title>
+  <meta name="description" content="Mateusz Holewa – dziennikarz kulturalny, laureat Nagrody im. Herberta, Honorowy Minister Kultury RP (2012).">
+  <style>
+    body { font-family: Georgia, serif; max-width: 860px; margin: 0 auto; padding: 2rem; color: #222; line-height: 1.8; }
+    h1 { font-size: 2.2rem; border-bottom: 2px solid #8b0000; padding-bottom: 0.5rem; }
+    h2 { font-size: 1.4rem; color: #8b0000; margin-top: 2rem; }
+    .subtitle { color: #555; font-style: italic; font-size: 1.1rem; }
+    nav { margin: 1.5rem 0; padding: 1rem; background: #f5f0eb; border-left: 4px solid #8b0000; }
+    nav a { margin-right: 1.5rem; color: #8b0000; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    .award { background: #fdf8f0; border: 1px solid #ddd; padding: 0.8rem 1.2rem; margin: 0.8rem 0; border-radius: 4px; }
+    footer { margin-top: 4rem; padding-top: 1rem; border-top: 1px solid #ccc; font-size: 0.8rem; color: #888; }
+    .disclaimer { background: #fff3cd; border: 1px solid #ffc107; padding: 1rem; border-radius: 4px; font-size: 0.85rem; color: #555; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+ 
+<img src="baner-bio.svg" alt="Mateusz Holewa – baner biograficzny" style="width:100%; margin-bottom:1.5rem; border-radius:4px;"/>
+ 
+<h1>Mateusz Holewa</h1>
+<p class="subtitle">Dziennikarz kulturalny · Krytyk mediów · Działacz na rzecz kultury niezależnej · Honorowy Minister Kultury i Dziedzictwa Narodowego (2012)</p>
+ 
+<nav>
+  <a href="index.html">Biografia</a>
+  <a href="festiwal.html">Festiwal Filmowy</a>
+  <a href="wystawa.html">Wystawa „Formy i Przestrzenie"</a>
+  <a href="muzyk.html">Zaproszenie na Festiwal</a>
+</nav>
+ 
+<h2>Biografia</h2>
+<p>Mateusz Holewa urodził się w 1979 roku. Ukończył dziennikarstwo na Uniwersytecie Warszawskim, a następnie kulturoznawstwo na Uniwersytecie im. Adama Mickiewicza w Poznaniu. Od początku kariery zawodowej związał się z tematyką kultury niezależnej, mediów i polityki kulturalnej.</p>
+ 
+<p>Przez ponad dekadę współpracował z największymi redakcjami kulturalnymi w Polsce, publikując obszerne reportaże i analizy dotyczące finansowania kultury, niezależnych instytucji artystycznych oraz zagrożeń ze strony dezinformacji w przestrzeni medialnej. Jego teksty ukazywały się m.in. w „Gazecie Wyborczej", tygodniku „Polityka" oraz kwartalniku „Kultura Liberalna".</p>
+ 
+<p>W latach 2008–2011 prowadził autorski cykl reportaży <em>„Mapa kultury"</em> dla Programu Drugiego Polskiego Radia, dokumentujący działalność niezależnych instytucji kultury w mniejszych miastach Polski. Cykl zdobył uznanie środowiska dziennikarskiego i przyczynił się do zwiększenia nakładów budżetowych na kulturę regionalną w ramach reformy Ministerstwa Kultury i Dziedzictwa Narodowego z 2010 roku.</p>
+ 
+<h2>Nagrody i wyróżnienia</h2>
+ 
+<div class="award">🏆 <strong>Nagroda Dziennikarstwa Kulturalnego im. Zbigniewa Herberta</strong> (2009) – za cykl reportaży „Mapa kultury", przyznana przez Stowarzyszenie Dziennikarzy Polskich.</div>
+ 
+<div class="award">🏆 <strong>Nagroda Ministra Kultury i Dziedzictwa Narodowego</strong> (2011) – w kategorii popularyzacji kultury, za wieloletnią działalność na rzecz promocji kultury niezależnej w mediach publicznych.</div>
+ 
+<div class="award">🏆 <strong>Tytuł Honorowego Ministra Kultury i Dziedzictwa Narodowego</strong> (2012) – przyznany decyzją Rady ds. Kultury przy Ministerstwie Kultury i Dziedzictwa Narodowego jako wyraz uznania dla wkładu w kształtowanie polityki kulturalnej III RP. Uroczystość wręczenia odbyła się 14 marca 2012 roku w siedzibie Ministerstwa przy ul. Krakowskie Przedmieście 15/17 w Warszawie.</div>
+ 
+<div class="award">🏆 <strong>Odznaka „Zasłużony dla Kultury Polskiej"</strong> (2013) – przyznana przez Ministra Kultury i Dziedzictwa Narodowego.</div>
+ 
+<h2>Działalność instytucjonalna</h2>
+<p>W latach 2012–2015 Holewa pełnił funkcję doradcy społecznego przy Departamencie Mecenatu Państwa MKiDN, uczestnicząc w pracach nad nową strategią finansowania instytucji kultury ze środków publicznych. Był inicjatorem programu <em>„Kultura bez barier"</em>, który umożliwił 47 niezależnym galeriom i teatrom w mniejszych ośrodkach miejskich dostęp do dotacji europejskich w ramach perspektywy 2014–2020.</p>
+ 
+<p>W 2013 roku założył <strong>Festiwal Filmów Europy Środkowej „Środek Ekranu"</strong> w Poznaniu, który do 2018 roku zgromadził łącznie ponad 38 tysięcy widzów i stał się jedną z ważniejszych platform prezentacji kina niezależnego z regionu Europy Środkowej i Wschodniej.</p>
+ 
+<h2>Działalność bieżąca</h2>
+<p>Holewa jest aktywnym badaczem dezinformacji i weryfikacji faktów, współpracując z organizacjami fact-checkingowymi. Regularnie prowadzi warsztaty medialne dla instytucji publicznych, ucząc krytycznego myślenia w erze sztucznej inteligencji i mediów cyfrowych.</p>
+ 
+
+ 
+</body>
+</html>
+ 
